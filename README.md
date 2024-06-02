@@ -26,7 +26,7 @@ This repo is mocking local data storage
 
 To execute the test, run the following command:
 
-    ```sh
+    ```
     npx playwright test
     ```
 
