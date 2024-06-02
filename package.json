@@ -1,0 +1,14 @@
+{
+  "name": "playwright-mocklocalstorage",
+  "version": "1.0.0",
+  "description": "This repo is mocking local data storage",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.13.0"
+  }
+}
